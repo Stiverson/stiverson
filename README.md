@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 😁
 
-<!--
-**Stiverson/stiverson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Stiverson Rodrigues Machado (🇧🇷). I am a technology student, almost trained in systems analysis and development, programming is more than a hobby for me
 
-Here are some ideas to get you started:
+In my free time I like to play Video Games, to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) .
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Would you like to find me?
+
+[![Blog Badge]http://tives.blogspot.com/)](http://tives.blogspot.com/)
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCuXVUyENJ9S6G8cJQdVN_EA?view_as=subscriber)](https://www.youtube.com/channel/UCuXVUyENJ9S6G8cJQdVN_EA?view_as=subscriber)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Tives_away)](https://twitter.com/Tives_away)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stiverson-rodrigues-machado-518b2159/)](https://www.linkedin.com/in/stiverson-rodrigues-machado-518b2159/)
+
+
