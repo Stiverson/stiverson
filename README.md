@@ -1,6 +1,6 @@
 ### Hi there 👋 😁
 
-My name is Stiverson Rodrigues Machado (🇧🇷). I am a technology student, almost trained in systems analysis and development, programming is more than a hobby for me
+My name is Stiverson Rodrigues Machado (🇧🇷). I am a Software Engineer and Developer, programming is more than a hobby for me
 
 In my free time I like to play Video Games, to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵) .
 
