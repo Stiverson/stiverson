@@ -20,15 +20,6 @@ Você gostaria de me encontrar?
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Tives_away)](https://twitter.com/Tives_away)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stiverson-rodrigues-machado-518b2159/)](https://www.linkedin.com/in/stiverson-rodrigues-machado-518b2159/)
-
-
-<div align="center">
-  <a href="https://github.com/stiverson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stiverson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiverson&layout=compact&langs_count=7&theme=algolia"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiverson&theme=blue-green"/>
-</div>
-  
 ## ⚡ Technologies/Tecnologias
 These are some of the technologies and tools I work with:  
 Estas são algumas das tecnologias e ferramentas com as quais trabalho:
@@ -58,6 +49,15 @@ Estas são algumas das tecnologias e ferramentas com as quais trabalho:
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
  #
+
+<div align="center">
+  <a href="https://github.com/stiverson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stiverson&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiverson&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stiverson&theme=blue-green"/>
+</div>
+  
+
  
   
  
